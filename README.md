@@ -1,5 +1,7 @@
 # Node API 1 Project Starter Code
 
+# initial commit
+
 ## Topics
 
 - Writing API endpoints.
